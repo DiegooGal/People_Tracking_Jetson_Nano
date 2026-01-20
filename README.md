@@ -1,4 +1,4 @@
-# 👥 Seguimiento y detecció del género de personas con Jetson Nano
+# 👥 Seguimiento y detección del género de personas con Jetson Nano
 
 Proyecto realizado como parte de la asignatura **Computadores Avanzados**  
 **4º curso – Ingeniería de Computadores**
