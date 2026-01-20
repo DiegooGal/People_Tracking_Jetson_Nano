@@ -24,13 +24,8 @@ Sistema inteligente de conteo y análisis demográfico de personas en tiempo rea
 - [Modelos de Deep Learning](#-modelos-de-deep-learning)
 - [Estadísticas y Métricas](#-estadísticas-y-métricas)
 - [Rendimiento](#-rendimiento)
-- [Archivos Grandes (Git LFS)](#-archivos-grandes-git-lfs)
 - [Solución de Problemas](#-solución-de-problemas)
-- [Roadmap](#-roadmap)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 - [Autores](#-autores)
-- [Agradecimientos](#-agradecimientos)
 
 ---
 
