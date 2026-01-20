@@ -1,0 +1,87 @@
+{
+  "total_in": 9,
+  "total_out": 0,
+  "hourly_traffic": {
+    "2026-01-20 17:00": {
+      "in": 9,
+      "out": 0
+    }
+  },
+  "demographics": {
+    "gender": {
+      "Female": 3,
+      "Male": 6
+    },
+    "age_ranges": {
+      "(25-32)": 5,
+      "(38-43)": 1,
+      "(0-2)": 1,
+      "(60-100)": 1
+    }
+  },
+  "start_time": "2026-01-20T17:03:25.574612",
+  "events": [
+    {
+      "id": 0,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:04:36.638743",
+      "gender": "Female",
+      "age": "(25-32)"
+    },
+    {
+      "id": 2,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:04:56.118125",
+      "gender": "Male",
+      "age": "(38-43)"
+    },
+    {
+      "id": 3,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:05:00.538253",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:05:12.054589",
+      "gender": "Male",
+      "age": "(25-32)"
+    },
+    {
+      "id": 5,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:05:53.035606",
+      "gender": "Female",
+      "age": "(25-32)"
+    },
+    {
+      "id": 6,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:06:19.579554",
+      "gender": "Male",
+      "age": "(0-2)"
+    },
+    {
+      "id": 7,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:06:23.807405",
+      "gender": "Female",
+      "age": "(60-100)"
+    },
+    {
+      "id": 8,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:06:30.731902",
+      "gender": "Male",
+      "age": "(25-32)"
+    },
+    {
+      "id": 13,
+      "direction": "IN",
+      "timestamp": "2026-01-20T17:06:54.440905",
+      "gender": "Male",
+      "age": "(25-32)"
+    }
+  ]
+}
