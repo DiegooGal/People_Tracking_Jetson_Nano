@@ -5,7 +5,7 @@ Sistema inteligente de conteo y análisis demográfico de personas en tiempo rea
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-Jetson%20Nano-76B900.svg)](https://developer.nvidia.com/embedded/jetson-nano)
 
-![Demo](docs/demo.gif)
+<img width="1497" height="762" alt="funcionamiento" src="https://github.com/user-attachments/assets/40337f9e-8042-4a99-a969-baa3b3002ce8" />
 
 ---
 
@@ -294,8 +294,13 @@ python3 main.py
 
 **Interfaz:**
 
-![Panel de Control](docs/screenshots/control_panel.png)
-![Estadísticas](docs/screenshots/stats_panel.png)
+### Panel de control
+<img width="1324" height="913" alt="GUI" src="https://github.com/user-attachments/assets/ed0ace04-2e74-45a3-9f9f-9d0219bc8060" />
+
+### Estadísticas
+<img width="1325" height="918" alt="Estadisticas1" src="https://github.com/user-attachments/assets/e785b6ad-8324-4509-b3d9-fff8273463bc" />
+<img width="1323" height="916" alt="Estadisticas" src="https://github.com/user-attachments/assets/462a4734-e2d1-4515-94fc-4a0d6389a36d" />
+
 
 ---
 
