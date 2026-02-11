@@ -622,11 +622,9 @@ SKIP_FRAMES = 3
 
 ---
 
-## Participantes
+## Autor
 
-- **Diego García Álvarez** - [@DiegooGal](https://github.com/DiegooGal)
-- **Pablo Mollá Gil** - [@pabloalmansa96](https://github.com/pabloalmansa96)
-- **Raúl Díaz Sanz** - [@RaulacaX](https://github.com/RaulacaX)
+**Diego García Álvarez** - [@DiegooGal](https://github.com/DiegooGal)
 
 
 **Asignatura**: Computadores Avanzados  
