@@ -60,7 +60,7 @@ Sistema inteligente de conteo y análisis demográfico de personas en tiempo rea
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ┌──────────┐     ┌──────────────┐    ┌─────────────┐       │
-│  │ Camera   │───▶ │Preprocessing│───▶│  TensorRT   │       │
+│  │ Camera   │───▶ │Preprocessing │───▶│  TensorRT   │       │
 │  │  USB/CSI │     │   (Resize)   │    │  SSD-MNet   │       │
 │  └──────────┘     └──────────────┘    └──────┬──────┘       │
 │                                              │              │
